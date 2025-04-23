@@ -156,6 +156,8 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 If you find this repository helpful and enjoy the visualizations, please consider giving it a star on GitHub! Your support motivates us to continue improving and adding more content.
 
+#kumudkode #development #java #developer
+
 ## ❤️ Say Thanks!
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks!-❤️-brightgreen.svg)](https://saythanks.io/to/ishii-ag)
