@@ -5,7 +5,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/kumudkode/DSA_Java)](https://github.com/kumudkode/DSA_Java/issues)
 [![License](https://img.shields.io/github/license/ishii-ag/dsa-with-java)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks!-❤️-brightgreen.svg)](https://saythanks.io/to/kumudkode)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks!-❤️-brightgreen.svg)](https://buymeacoffee.com/kumudkode)
 
 **Unlock the world of Data Structures and Algorithms with Java through engaging visualizations!** This repository provides a collection of fundamental DSA concepts implemented in Java, enhanced with animations to facilitate deeper understanding.
 
@@ -154,3 +154,4 @@ This is a sample 4-week schedule assuming you dedicate approximately 10-15 hours
 ---
 
 **Embark on your visual journey to mastering Data Structures and Algorithms with Java!**
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks!-❤️-brightgreen.svg)](https://buymeacoffee.com/kumudkode)
