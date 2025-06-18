@@ -1,9 +1,9 @@
 # Data Structures and Algorithms in Java - Visualized Learning 🚀
 
-[![GitHub Stars](https://img.shields.io/github/stars/kumudkode/DSA_Java?style=social)](https://github.com/kumudkode/DSA_Java)
-[![GitHub Forks](https://img.shields.io/github/forks/kumudkode/DSA_Java?style=social)](https://github.com/kumudkode/DSA_Java)
-[![GitHub Issues](https://img.shields.io/github/issues/kumudkode/DSA_Java)](https://github.com/kumudkode/DSA_Java/issues)
-[![License](https://img.shields.io/github/license/ishii-ag/dsa-with-java)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/kumudkode/DSA_Java?style=social)](https://github.com/kumudkode/JAVA_DSA)
+[![GitHub Forks](https://img.shields.io/github/forks/kumudkode/DSA_Java?style=social)](https://github.com/kumudkode/JAVA_DSA)
+[![GitHub Issues](https://img.shields.io/github/issues/kumudkode/DSA_Java)](https://github.com/kumudkode/JAVA_DSA/issues)
+[![License](https://img.shields.io/github/license/kumudkode/JAVA_DSA)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks!-❤️-brightgreen.svg)](https://buymeacoffee.com/kumudkode)
 
@@ -58,7 +58,7 @@ This repository covers a range of essential Data Structures and Algorithms, incl
 
 1.  **Clone the Repository:**
     ```bash
-      https://github.com/kumudkode/DSA_Java.git
+      https://github.com/kumudkode/JAVA_DSA.git
     ```
 
 2.  **Explore the Code:** Navigate through the directories to find the Java implementations and their corresponding visualizations.
