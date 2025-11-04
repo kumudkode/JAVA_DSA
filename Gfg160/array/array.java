@@ -27,16 +27,26 @@ public class array {
     //    b = 5;
        b = new int[2];
        
-       a[0]=2;
-       a[1]=3;
-       a[2]=4;
+       a[0]=9;
+       a[1]=8;
+       a[2]=43;
 
      // if we not declare anything then output of an array will be 0
 
        for(int i = 0; i<a.length;i++)
        {
+        i= i+1;
         System.out.println(a[i]);
        
      
     }
+    // int d = 200;
+    // Integer e = d; //autoboxing
+    // System.out.println(e);
+
+    // Integer f = 2030;
+    // int s= f; //unboxing
+    // System.out.println(s);
+
+}
 }
