@@ -1,3 +1,4 @@
+package basic;
 public class swap {
     public static void main(String[] args) {
         int m =20 , n =80;

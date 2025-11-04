@@ -1,3 +1,4 @@
+package basic;
 class multiArray {
     void multiArrays(){
         //2d-array

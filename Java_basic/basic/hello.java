@@ -1,3 +1,4 @@
+package basic;
 public class hello
 {
 static public void main (String[] args)

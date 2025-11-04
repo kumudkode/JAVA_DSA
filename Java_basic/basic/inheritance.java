@@ -1,3 +1,4 @@
+package basic;
 public class inheritance {
     public static void main(String[] args) {
         Animal a= new Animal();
